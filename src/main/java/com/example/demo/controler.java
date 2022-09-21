@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class controler {
     @GetMapping("/")
         public String mensaje(){
-            return "Hola Juan David Torres Millan";
+            return "Modificando repositorio clase 20 de septiembre";
         }
 }
